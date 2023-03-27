@@ -50,8 +50,9 @@ Here are some problems we solved during our careers:
   </tr>
   <tr>
     <td>
-Internal documentation team were manually building metada files to docs navigation.
-  </td>
+
+Time consuming manual process for internal documentation team to build metadata files for [DocFX](https://dotnet.github.io/docfx/) documents.
+</td>
 <td>
 
 Built a [VSCode extention](https://marketplace.visualstudio.com/items?itemName=MomoNet.docfx-toc-generator) to automate meta files generation.</td>
@@ -61,7 +62,7 @@ Built a [VSCode extention](https://marketplace.visualstudio.com/items?itemName=M
 * Over 800 installs by various team members.</td>
   </tr>
   <tr>
-    <td>Team were manually querying thousands or log data with text editor.</td>
+    <td>Innefficient and time consuming manual server log querying using text editor.</td>
 <td>
 
 Autometed log data ingestion into Azure Log Analytics such that they can be queried efficiently using [KQL](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/).</td>
@@ -78,8 +79,8 @@ Autometed log data ingestion into Azure Log Analytics such that they can be quer
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/AlahmadiQ8"><img src="https://avatars.githubusercontent.com/u/3461501?v=3?s=100" width="100px;" alt="Kent C. Dodds"/><br /><sub><b>Mohammad Asad Alahmadi</b></sub></a><br />Ex-Microsoft, Ex-Capital One</td>
-      <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt="Jeroen Engels"/><br /><sub><b>Ahmad Asad Alahmadi</b></sub></a><br />Ex-Mckinsey</td>
+      <td align="center"><a href="https://github.com/AlahmadiQ8"><img src="https://avatars.githubusercontent.com/u/3461501?v=3?s=100" width="120px;" alt="Kent C. Dodds"/><br /><b>Mohammad Asad Alahmadi</b></a><br /><sub>Ex-Microsoft, Ex-Capital One</sub></td>
+      <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="120px;" alt="Jeroen Engels"/><br /><b>Ahmad Asad Alahmadi</b></a><br /><sub>Ex-Mckinsey</sub></td>
     </tr>
     <tr>
       <td>lorem ipubsdlfjk sdljfkn sdfkj nsd </td>
