@@ -1,8 +1,8 @@
-<p align="center">
+<h1 align="center">
     <a href="https://github.com/EnoTeq">
     <img width="400" alt="horz - dark" src="https://user-images.githubusercontent.com/3461501/227721338-30ce3246-6df4-4f1a-9996-29a4edd5c9dd.png">
     </a>
-</p>
+</h1>
 
 <!-- <div id="badges" align="center">
   <a href="your-linkedin-URL">
