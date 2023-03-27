@@ -38,7 +38,9 @@ We're a small software shop who love solving technical problems for businesses. 
 
 ---
 
-Here are some real examples we solved during our careers
+## Our Work
+
+Here are some problems we solved during our careers
 
 <table>
   <tr>
