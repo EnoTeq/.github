@@ -73,15 +73,15 @@ Autometed log data ingestion into Azure Log Analytics such that they can be quer
 
 ## About Us
 
-<table align="center">
+<table>
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/AlahmadiQ8"><img src="https://avatars.githubusercontent.com/u/3461501?v=3?s=100" width="100px;" alt="Kent C. Dodds"/><br /><sub><b>Mohammad Asad Alahmadi</b></sub></a></td>
       <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt="Jeroen Engels"/><br /><sub><b>Jeroen Engels</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jfmengels" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajfmengels" title="Reviewed Pull Requests">👀</a> <a href="#tool-jfmengels" title="Tools">🔧</a></td>
     </tr>
     <tr>
-      <td align="center">lorem ipubsdlfjk sdljfkn sdfkj nsd </td>
-      <td align="center">lorem ipubsdlfjk sdljfkn sdfkj nsd </td>
+      <td>lorem ipubsdlfjk sdljfkn sdfkj nsd </td>
+      <td>lorem ipubsdlfjk sdljfkn sdfkj nsd </td>
     </tr>
   </tbody>
 </table>
