@@ -29,6 +29,47 @@
 
 ---
 
+We're a small software shop who love solving technical problems for businesses. Our services include:
+* Turning messy data into actionable insights by transform by extracting, transforming and analyzing data into dashboards and reports.
+* Creating interactive dashboards and visualizations.
+* Building data collection and processing workflows from various sources.
+* Building custom internal software solutions tailored to your needs.
+* Automating repetitive business workflows.
+
+---
+
+Here are some real examples we solved during our careers
+
+<table>
+  <tr>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Impact</th>
+  </tr>
+  <tr>
+    <td>
+Internal documentation team were manually building metada files to docs navigation.
+  </td>
+<td>
+
+Built a [VSCode extention](https://marketplace.visualstudio.com/items?itemName=MomoNet.docfx-toc-generator) to automate meta files generation.</td>
+<td>
+
+* Saved 15 minutes of manually filling out metadata.
+* Over 800 installs by various team members.</td>
+  </tr>
+  <tr>
+    <td>Team were manually querying thousands or log data with text editor.</td>
+<td>
+
+Autometed log data ingestion into Azure Log Analytics such that they can be queried efficiently using [KQL](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/).</td>
+<td>
+
+* Reduced log querying from > 5min to < 1s.</td>
+  </tr>
+</table>
+
+
 
 <!-- <div>
 
