@@ -51,8 +51,8 @@ Here are some problems we solved during our careers:
   <tr><td colspan="3" align="center"><b>Data & Business Intelligence</b></td></tr>
 <tr>
     <td>Millions of data on telco packages made it difficult for the client to decide which packages to reduce in order to simplify offerings for customers.</td>
-<td>Conducted a Pareto analysis on +30 million rows of data to identify which packages contributed the most to revenue.	Enabled the client to make informed decisions on which packages to remove, streamlining their offerings and maintaining revenue generation.</td>
-<td>The client needed to offer tailored products to their corporate clients but lacked an effective strategy for doing so.	Developed a customer segmentation model to better understand the needs and preferences of various client groups.	Enabled the client to offer personalized products and services to their corporate clients, improving customer satisfaction and increasing the potential for long-term relationships.</td>
+<td>Conducted a Pareto analysis on +30 million rows of data to identify which packages contributed the most to revenue.	</td>
+<td>Enabled the client to make informed decisions on which packages to remove, streamlining their offerings and maintaining revenue generation.</td>
   </tr>
   <tr><td colspan="3" align="center"><b>Workflows Automation</b></td></tr>
   <tr>
