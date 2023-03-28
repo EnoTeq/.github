@@ -54,6 +54,11 @@ Here are some problems we solved during our careers:
 <td>Conducted a Pareto analysis on +30 million rows of data to identify which packages contributed the most to revenue.	</td>
 <td>Enabled the client to make informed decisions on which packages to remove, streamlining their offerings and maintaining revenue generation.</td>
   </tr>
+<tr>
+    <td>The client needed to offer tailored products to their corporate clients but lacked an effective strategy for doing so.</td>
+<td>Developed a customer segmentation model to better understand the needs and preferences of various client groups.</td>
+<td>Enabled the client to offer personalized products and services to their corporate clients, improving customer satisfaction and increasing the potential for long-term relationships.</td>
+  </tr>
   <tr><td colspan="3" align="center"><b>Workflows Automation</b></td></tr>
   <tr>
     <td>
